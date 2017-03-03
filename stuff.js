@@ -4,3 +4,4 @@ var a = function (){
 
 
 var a = 'str';
+var b = 3;
