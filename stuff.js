@@ -3,5 +3,4 @@ var a = function (){
 }();
 
 
-//this is a comment made on local copy of master
-
+var a = 'str';
